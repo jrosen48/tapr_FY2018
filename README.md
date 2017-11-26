@@ -33,4 +33,4 @@ library(stringr)
 ```
 
 ## For more information
-Please see the associated [blog post]()!
+Please see the associated [blog post](https://medium.com/@kierisi/share-the-code-adventures-in-education-data-wrangling-11f2509272cb)!
