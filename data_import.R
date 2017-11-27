@@ -71,11 +71,3 @@ head(mobility)
 colnames(mobility)
 mobility <- mobility[c("CAMPUS", "CPEMALLP", "CPETBILP", "CPETECOP")]
 names(mobility) <- c("CAMPUS", "all_mobility", "bilingual_mobility", "low_ses_mobility")
-
-### HOLD ON THE FOLLOWING:
-# THESE MAY BE WRONG - created by Research & Evaluation
-# tt_schools_raw <- read_csv("school_ids.csv")
-# tt_schools <- tt_schools_raw
-# 
-# head(tt_schools)
-# colnames(tt_schools)
